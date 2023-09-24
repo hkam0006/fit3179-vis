@@ -1,0 +1,136 @@
+name,aqi_value,status
+Albania,17.0,Good
+Algeria,56.0,Moderate
+Andorra,15.0,Good
+Angola,140.0,Unhealthy for Sensitive Groups
+Argentina,16.0,Good
+Armenia,28.5,Good
+Australia,68.5,Moderate
+Austria,29.5,Good
+Azerbaijan,45.0,Good
+Bahrain,109.0,Unhealthy for Sensitive Groups
+Bangladesh,116.5,Unhealthy for Sensitive Groups
+Belarus,9.0,Good
+Belgium,137.5,Unhealthy for Sensitive Groups
+Belize,21.5,Good
+Bermuda,23.5,Good
+Bolivia,34.5,Good
+Bosnia and Herzegovina,51.5,Moderate
+Brazil,88.5,Moderate
+Brunei,15.0,Good
+Bulgaria,48.5,Good
+Burkina Faso,44.0,Good
+Cambodia,9.5,Good
+Canada,106.5,Unhealthy for Sensitive Groups
+Cape Verde,17.0,Good
+Cayman Islands,10.0,Good
+Chad,44.0,Good
+Chile,104.5,Unhealthy for Sensitive Groups
+China,151.5,Unhealthy
+Colombia,99.0,Moderate
+Costa Rica,9.5,Good
+Croatia,26.0,Good
+Cyprus,46.5,Good
+Czech Republic,56.5,Moderate
+Denmark,5.5,Good
+Dominican Republic,14.5,Good
+Ecuador,70.0,Moderate
+Egypt,60.5,Moderate
+El Salvador,26.5,Good
+Estonia,20.5,Good
+Ethiopia,158.0,Unhealthy
+Finland,26.5,Good
+France,68.0,Moderate
+French Guiana,20.0,Good
+Gabon,104.5,Unhealthy for Sensitive Groups
+Georgia,28.0,Good
+Germany,123.0,Unhealthy for Sensitive Groups
+Ghana,33.5,Good
+Gibraltar,54.0,Moderate
+Greece,54.0,Moderate
+Grenada,14.5,Good
+Guadeloupe,15.5,Good
+Guatemala,60.5,Moderate
+Honduras,21.5,Good
+Hong Kong,74.0,Moderate
+Hungary,25.0,Good
+Iceland,7.0,Good
+India,161.0,Unhealthy
+Indonesia,149.5,Unhealthy for Sensitive Groups
+Iran,158.0,Unhealthy
+Iraq,25.0,Good
+Ireland,21.5,Good
+Israel,63.0,Moderate
+Italy,62.5,Moderate
+Ivory Coast,29.5,Good
+Japan,71.5,Moderate
+Jersey,25.0,Good
+Jordan,32.0,Good
+Kazakhstan,74.0,Moderate
+Kenya,55.5,Moderate
+Kosovo,19.0,Good
+Kuwait,74.5,Moderate
+Kyrgyzstan,120.5,Unhealthy for Sensitive Groups
+Laos,52.5,Moderate
+Latvia,10.0,Good
+Lebanon,21.0,Good
+Liberia,17.0,Good
+Liechtenstein,23.5,Good
+Lithuania,29.5,Good
+Luxembourg,36.5,Good
+Macao,55.0,Moderate
+Macedonia,35.5,Good
+Madagascar,42.0,Good
+Malaysia,65.5,Moderate
+Malta,32.5,Good
+Martinique,64.5,Moderate
+Mexico,157.0,Unhealthy
+Moldova,6.0,Good
+Monaco,25.0,Good
+Mongolia,42.0,Good
+Montenegro,32.0,Good
+Myanmar,60.5,Moderate
+Nepal,67.5,Moderate
+Netherlands,240.0,Hazardous
+New Zealand,47.5,Good
+Nigeria,33.5,Good
+Norway,21.5,Good
+Pakistan,52.5,Moderate
+Palestinian Territory,35.5,Good
+Peru,84.0,Moderate
+Philippines,71.5,Moderate
+Poland,73.5,Moderate
+Portugal,26.5,Good
+Puerto Rico,3.5,Good
+Qatar,68.0,Moderate
+Reunion,17.5,Good
+Romania,60.0,Moderate
+Russia,87.0,Moderate
+San Marino,48.0,Good
+Serbia,47.5,Good
+Singapore,76.0,Moderate
+Slovakia,31.0,Good
+Slovenia,24.5,Good
+South Africa,165.0,Unhealthy
+South Korea,59.0,Moderate
+Spain,93.0,Moderate
+Sri Lanka,45.0,Good
+Sweden,19.0,Good
+Switzerland,35.5,Good
+Taiwan,61.5,Moderate
+Tajikistan,46.0,Good
+Thailand,93.5,Moderate
+Togo,191.0,Unhealthy
+Trinidad and Tobago,14.5,Good
+Turkey,93.5,Moderate
+Turkmenistan,77.0,Moderate
+Uganda,4.0,Good
+Ukraine,47.0,Good
+United Arab Emirates,118.5,Unhealthy for Sensitive Groups
+United Kingdom of Great Britain and Northern Ireland,139.0,Unhealthy for Sensitive Groups
+United States of America,321.5,Hazardous
+Uzbekistan,38.0,Good
+Vatican,35.5,Good
+Venezuela,15.0,Good
+Vietnam,124.5,Unhealthy for Sensitive Groups
+Zambia,89.0,Moderate
